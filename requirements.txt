@@ -1,0 +1,2 @@
+# No external dependencies required.
+# Project uses standard C++17 and POSIX I/O (unistd.h).
